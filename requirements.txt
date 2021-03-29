@@ -60,7 +60,7 @@ py==1.8.1
 pycairo==1.18.2
 pycparser==2.19
 pycurl==7.43.0.3
-Pygments==2.5.2
+Pygments==2.7.4
 PyGObject==3.34.0
 pylint==2.4.4
 pyparsing==2.4.5
