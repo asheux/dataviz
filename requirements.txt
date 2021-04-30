@@ -78,7 +78,7 @@ soupsieve==1.9.5
 team==1.0
 thefuck==3.29
 typing==3.7.4.1
-urllib3==1.25.7
+urllib3==1.25.8
 variety==0.7.2
 wcwidth==0.1.7
 webencodings==0.5.1
